@@ -10,7 +10,7 @@
         "laissez-faire": "",
         "rsvp": "",
         "jquery-browserify": "",
-        "jsdom": ">= 0.2.18"
+        "jsdom": ""
     },
     "scripts": {
         "test": "./bin/run.sh"
